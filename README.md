@@ -7,3 +7,4 @@ Here is the list of what was learned on the chapter and some prints of my versio
 
 ## Charapter 6 - Basics
 
+<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch6_basics/prints/ch6_basics.png" width="250"/>
