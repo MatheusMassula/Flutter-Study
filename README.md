@@ -15,12 +15,12 @@ Here is the list of what was learned on the chapter and some prints of my versio
 
 ## Charapter 6 - Images
 
-<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch6_orientation/prints/ch6_orientation_landscape.png" width="250"/>
-<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch6_orientation/prints/ch6_orientation_portrait.png" width="250"/>
+<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch6_images/prints/ch6_images.png" width="250"/>
 
 ## Charapter 6 - Orientation
 
-<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch6_orientation/prints/ch6_orientation.png" width="250"/>
+<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch6_orientation/prints/ch6_orientation_landscape.png" width="250"/>
+<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch6_orientation/prints/ch6_orientation_portrait.png" width="250"/>
 
 ## Charapter 7 - Animated controller
 
