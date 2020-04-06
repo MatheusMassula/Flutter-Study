@@ -15,7 +15,8 @@ Here is the list of what was learned on the chapter and some prints of my versio
 
 ## Charapter 6 - Images
 
-<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch6_images/prints/ch6_images.png" width="250"/>
+<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch6_orientation/prints/ch6_orientation_landscape.png" width="250"/>
+<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch6_orientation/prints/ch6_orientation_portrait.png" width="250"/>
 
 ## Charapter 6 - Orientation
 
@@ -35,19 +36,20 @@ Here is the list of what was learned on the chapter and some prints of my versio
 
 ## Charapter 8 - Drawer
 
-<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch8_drawer/prints/ch8_drawer.png" width="250"/>
+<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch8_drawer/prints/ch8_drawer_left.png" width="250"/>
+<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch8_drawer/prints/ch8_drawer_right.png" width="250"/>
 
 ## Charapter 8 - Hero animation
 
-<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch8_hero_animation/prints/ch8_hero_animation.png" width="250"/>
+<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch8_hero_animation/prints/ch8_hero_animation.gif" width="250"/>
 
 ## Charapter 8 - Navigator
 
-<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch8_navigator/prints/ch8_navigator.png" width="250"/>
+<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch8_navigator/prints/ch8_navigator.gif" width="250"/>
 
 ## Charapter 8 - Tabbar
 
-<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch8_tabbar/prints/ch8_tabbar.png" width="250"/>
+<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch8_tabbar/prints/ch8_tab_bar.gif" width="250"/>
 
 ## Charapter 9 - Custom scroll view
 
@@ -71,7 +73,7 @@ Here is the list of what was learned on the chapter and some prints of my versio
 
 ## Charapter 11 - Dismissible
 
-<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch11_dismissible/prints/ch11_dismissible.png" width="250"/>
+<img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch11_dismissible/prints/ch11_dismissible.gif" width="250"/>
 
 ## Charapter 11 - Gestures grag and drop
 
