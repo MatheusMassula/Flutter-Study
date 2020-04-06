@@ -75,7 +75,7 @@ Here is the list of what was learned on the chapter and some prints of my versio
 
 <img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch11_dismissible/prints/ch11_dismissible.gif" width="250"/>
 
-## Charapter 11 - Gestures grag and drop
+## Charapter 11 - Gestures drag and drop
 
 <img src="https://github.com/MatheusMassula/Flutter-Study/blob/master/ch11_gestures_drag_drop/prints/ch11_gestures_drag_drop.gif" width="250"/>
 
